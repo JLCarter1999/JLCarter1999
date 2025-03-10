@@ -11,10 +11,33 @@ Welcome to my GitHub profile! I'm a passionate Database Developer, Data Scientis
 - 💼 I am current a **Financial Aid Processing Specialist** focusing on Database Queries and Optimization, I am looking to move into a **Database Administration** position once I complete my Masters Degree in Computer Science.
 
 ---
+### 💼 Skills and Expertise
+#### **Database Management**
+- Proficient in **relational databases (SQL & Postgresql)** and **non-relational databases (MongoDB)**.
+- Skilled in **database schema design** and **data normalization**.
+- Expertise in handling large datasets, database migration, and ensuring data integrity.
 
-### 💼 My Skills and Expertise
-![Languages](https://img.shields.io/badge/-Languages-blue)
-![Programming](https://img.shields.io/badge/Programming-JavaScript%20%7C%20Python%20%7C%20HTML-orange)
+#### **Query Optimization**
+- Writing efficient, optimized SQL queries for complex data retrieval.
+- Experienced in indexing, query profiling, and troubleshooting slow-performing queries.
+- Ensuring scalability and performance tuning for high-traffic applications.
+
+#### **Data Visualization**
+- Creating dashboards and reports using tools such as **Tableau**.
+- Skilled in Python libraries like **Matplotlib** for custom data visualizations.
+- Transforming raw data into interactive charts, graphs, and visual narratives.
+
+#### **Programming**
+- Comfortable with **Python** for data processing and analysis.
+
+---
+
+### 🔗 Connect With Me
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/josephlcarter/)
+- 🌐 [Personal Website/Portfolio](#) **Coming Soon**
+- 📧 **[Business Email](jlcarter1999@gmail.com)**
+
+Thank you for visiting my profile! Let's collaborate and create something impactful together. 🚀
 
 <!---
 JLCarter1999/JLCarter1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
